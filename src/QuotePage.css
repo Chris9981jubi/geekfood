@@ -1,0 +1,40 @@
+
+.quote-page {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+  }
+  
+  .header {
+    background-color: #ff6f61;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 30px;
+  }
+  
+  .quote-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .quote {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .quote-text {
+    font-size: 20px;
+    line-height: 1.5;
+  }
+  
+  .quote-author {
+    font-size: 18px;
+    margin-top: 10px;
+    text-align: right;
+  }
+  
